@@ -1,0 +1,397 @@
+<resources>
+    <string name="app_name">Best of Toronto</string>
+
+    <!-- Not applicable string -->
+    <string name="not_applicable">n/a</string>
+
+    <!-- Park resources -->
+    <string name="high_park_name">High Park</string>
+    <string name="high_park_hours">Open 24 Hours</string>
+    <string name="high_park_address">1873 Bloor St W, Toronto, ON M6R 2Z3</string>
+    <string name="high_park_phone">(416) 338-0338</string>
+    <string name="high_park_description">
+       High Park is a municipal park in Toronto, Ontario, Canada.
+        It spans 161 hectares, and is a mixed recreational and
+        natural park, with sporting facilities, cultural facilities,
+        educational facilities, gardens, playgrounds and a zoo.
+    </string>
+
+    <string name="dufferin_grove_park_name">Dufferin Grove Park</string>
+    <string name="dufferin_grove_park_hours">Open 24 Hours</string>
+    <string name="dufferin_grove_park_address">875 Dufferin St, Toronto, ON M6H 3K8</string>
+    <string name= "dufferin_grove_park_phone">(416) 392-0913 </string>
+    <string name="dufferin_grove_park_description">
+        Dufferin Grove Park is a park in the Dufferin Grove
+        neighbourhood of Toronto, Ontario, Canada. The park is located
+        on the east side of Dufferin Street, south of Bloor Street West.
+    </string>
+
+
+    <string name="sunnybrook_park_name">Sunnybrook Park</string>
+    <string name="sunnybrook_park_hours">Open 24 Hours</string>
+    <string name="sunnybrook_park_phone">(416) 338-4386</string>
+    <string name="sunnybrook_park_address">1132 Leslie St, Toronto, ON</string>
+    <string name="sunnybrook_park_description">
+        Sunnybrook Park is a large public park in Toronto,
+        Ontario, Canada. It is located north of Leaside
+        and south of the Bridle Path areas of the city. The
+        park is home to many bike trails, dog parks,and
+        Sunnybrook Stables.
+    </string>
+
+    <string name="oriole_park_name">Oriole Park</string>
+    <string name="oriole_park_hours">8am - 11pm</string>
+    <string name="oriole_park_phone">(416) 338-4386</string>
+    <string name="oriole_park_address">201 Oriole Pkwy, Toronto, ON M5P 2H1</string>
+    <string name="oriole_park_description">
+        Park with a playground and splash pad, plus sports
+        facilities, washrooms and many shade trees.
+    </string>
+
+    <string name="grange_park_name">Grange Park</string>
+    <string name="grange_park_hours">Open 24 Hours</string>
+    <string name="grange_park_phone">(416) 392-8188</string>
+    <string name="grange_park_address">Beverley St and McCaul Street, Toronto, ON M5T 2W7</string>
+    <string name="grange_park_description">
+        Grange Park is a prominent and well-used public park
+        in downtown Toronto, Ontario, Canada, located south
+        of the Art Gallery of Ontario, beside the Ontario
+        College of Art and Design University, and north of
+        University Settlement House, at the north end of John Street.
+    </string>
+
+    <string name="berczy_park_name">Berczy Park</string>
+    <string name="berczy_park_hours">Open 24 Hours</string>
+    <string name="berczy_park_phone">(416) 338-4386</string>
+    <string name="berczy_park_address">35 Wellington St E, Toronto, ON M5E 1C6</string>
+    <string name="berczy_park_description">
+         Berczy Park is a small park in downtown Toronto,
+         Ontario, Canada. The park is triangular in shape,
+         bounded by Scott, Front and Wellington streets.
+    </string>
+
+    <!-- End Park Strings -->
+
+    <!-- Food Strings -->
+    <string name="boston_pizza_name">Boston Pizza</string>
+    <string name="boston_pizza_hours"> 11am - 2am</string>
+    <string name="boston_pizza_phone">(647) 740-4968</string>
+    <string name="boston_pizza_address">401 Yonge St, Toronto, ON M5B 1S9</string>
+    <string name="boston_pizza_description">
+        Boston Pizza, also known as Boston\'s The Gourmet
+        Pizza Restaurant and Sports Bar, is a Canadian
+        multinational restaurant chain that owns and franchises
+        locations in Canada, the United States and Mexico.
+    </string>
+
+    <string name="mandarin_name">Mandarin Restaurant</string>
+    <string name="mandarin_hours">11:30am - 3pm, 5pm - 10:30pm</string>
+    <string name="mandarin_phone">(905) 479-6000</string>
+    <string name="mandarin_address">7660 Woodbine Ave, Markham, ON L3R 2N2</string>
+    <string name="mandarin_description">
+        DescriptionMandarin Restaurant Franchise Corporation is
+        a chain of all-you-can-eat Chinese-Canadian buffet
+        restaurants. It was founded in 1979 and currently has its
+        headquarters in Brampton, Ontario.
+    </string>
+
+    <string name="spring_sushi_name">Spring Sushi</string>
+    <string name="spring_sushi_hours">11am - 11:30pm</string>
+    <string name="spring_sushi_phone">(416) 596-6866</string>
+    <string name="spring_sushi_address">10 Dundas St E #4, Toronto, ON M5B 2G9</string>
+    <string name="spring_sushi_description">
+        Brightly lit, spacious place for Japanese and Thai cuisine,
+        with a patio and touch-screen food ordering.
+    </string>
+
+    <string name="stelvio_name">Stelvio</string>
+    <string name="stelvio_hours">11am - 11pm</string>
+    <string name="stelvio_phone">416-546-6727</string>
+    <string name="stelvio_address">791 Dundas St W, Toronto, Ontario M6J 1V2, Canada</string>
+    <string name="stelvio_description">
+        A restaurant located on dundas street offering variety of
+        options such as Vegetarian Friendly, Gluten Free Options,
+        Vegan Options
+    </string>
+
+    <string name="jack_name">Jack Astor\'s Bar and Grill</string>
+    <string name="jack_hours">11:30am - 2am</string>
+    <string name="jack_phone">(416) 595-9100</string>
+    <string name="jack_address">133 John St, Toronto, ON M5V 2E4</string>
+    <string name="jack_description">
+        DescriptionJack Astor\'s Bar and Grill also known as Jack
+        Astor\'s is a chain of 40 restaurants located in Ontario,
+        Quebec, Alberta, Newfoundland and Labrador, Nova Scotia,
+        Canada, and New York in the United States. All locations
+        include a restaurant and bar area.
+    </string>
+
+    <string name="demetres_name">Demetres</string>
+    <string name="demetres_hours">2pm - 11pm</string>
+    <string name="demetres_phone">(416) 778-6654</string>
+    <string name="demetres_address">400 Danforth Ave, Toronto, ON M4K 1P3</string>
+    <string name="demetres_description">
+        Demetres is located in toronto and is a great way to end
+        your day by stopping by and having a small dessert.
+    </string>
+
+    <string name="Tim_Horton_name">Tim Horton\'s</string>
+    <string name="Time_Horton_hours">7am - 11pm</string>
+    <string name="Tim_Horton_phone">(416) 741-2888</string>
+    <string name="Tim_Horton_address">6220 Finch Ave W, Etobicoke, ON M9V 0A1</string>
+    <string name="Tim_Horton_description">
+        Tim Hortons Inc. is a fast food restaurant chain, specializing
+        in coffee and donut items. It is Canada\'s largest quick
+        service restaurant chain; as of December 31, 2018, it had a
+        total of 4,846 restaurants in 14 countries. The company
+        has its headquarters in Toronto.
+    </string>
+
+    <string name="brar_name">Brar\'s Grand </string>
+    <string name="brar_hours">11am - 9:30pm</string>
+    <string name="brar_phone">(905) 799-1625</string>
+    <string name="brar_address">199 Advance Blvd #13, Brampton, ON L6T 4N2</string>
+    <string name="brar_description">
+        Local chain spot with vegetarian Indian fare and generous
+        à la carte meals, plus a buffet and sweets.
+    </string>
+
+    <string name="starbucks_name">Starbucks</string>
+    <string name="starbucks_hours">6am - 11pm</string>
+    <string name="starbucks_phone">(647) 961-0635</string>
+    <string name="starbucks_address">6620 Finch Ave W #13, Etobicoke, ON M9V 5H7</string>
+    <string name="starbucks_description">
+        Starbucks Corporation is an American coffee company and
+        coffeehouse chain. Starbucks was founded in Seattle,
+        Washington in 1971. As of early 2019, the company operates
+        over 30,000 locations worldwide.
+    </string>
+
+    <string name="catrin_name">El Catrin</string>
+    <string name="catrin_hours">10:30am - 11pm</string>
+    <string name="catrin_phone">(416) 203-2121</string>
+    <string name="catrin_address">18 Tank House Lane, Toronto, ON M5A 3C4</string>
+    <string name="catrin_description">
+        Trendy, stylish restaurant with elevated Mexican small plates,
+        many tequilas and a heated patio.
+    </string>
+
+    <string name="amsterdam_brewhouse_name">Amsterdam Brewhouse</string>
+    <string name="amsterdam_brewhouse_hours">11am - 2am</string>
+    <string name="amsterdam_brewhouse_phone">(416) 504-1020</string>
+    <string name="amsterdam_brewhouse_address">245 Queens Quay W, Toronto, ON M5J 2K9</string>
+    <string name="amsterdam_brewhouse_description">
+        14,000-sq.-ft. lakeside brewery, restaurant and retail space
+        that pairs craft beer with local foods.
+    </string>
+
+    <string name="moxie_name">Moxie\'s Grill and Bar</string>
+    <string name="moxie_hours">6am - 2am</string>
+    <string name="moxie_phone">(416) 798-6788</string>
+    <string name="moxie_address">55 Reading Ct, Etobicoke, ON M9W 7K7</string>
+    <string name="moxie_description">
+        Moxie\'s Restaurants LP is a Canadian restaurant chain
+        operating in eight provinces. An expansion to the United States
+        started in 2016 with a Dallas, Texas location.
+    </string>
+
+    <string name="cheesecake_name">The Cheesecake Factory</string>
+    <string name="cheesecake_hours">10am - 11pm</string>
+    <string name="cheesecake_phone">(416) 781-4477</string>
+    <string name="cheesecake_address">Yorkdale Shopping Centre, 3401 Dufferin St, North York, ON M6A 2T9</string>
+    <string name="cheesecake_description">
+        American chain restaurant offering sizable portions from a
+        vast menu including signature cheesecake
+    </string>
+
+
+    <!-- Fun Resources -->
+    <string name="nathan_name">Nathan Phillip Square - Skating</string>
+    <string name="nathan_hours">Open 24 Hours</string>
+    <string name="nathan_address">100 Queen St W, Toronto, ON M5H 2N2</string>
+    <string name="nathan_description">
+        Nathan Phillips Square is an urban plaza in Toronto, Ontario,
+        Canada. It forms the forecourt to Toronto City Hall, or
+        New City Hall, at the intersection of Queen Street West and
+        Bay Street, and is named for Nathan Phillips, mayor of Toronto
+        from 1955 to 1962.
+    </string>
+
+    <string name="aquarium_name">Ripley\'s Aquarium of Canada</string>
+    <string name="aquarium_hours">9am - 11pm</string>
+    <string name="aquarium_phone">(647) 351-3474</string>
+    <string name="aquarium_address">288 Bremner Blvd, Toronto, ON M5V 3L9</string>
+    <string name="aquarium_description">
+        Ripley\'s Aquarium of Canada is a public aquarium in Toronto,
+        Ontario, Canada. The aquarium is one of three aquariums owned
+        and operated by Ripley Entertainment. It is located in
+        downtown Toronto, just southeast of the CN Tower.
+    </string>
+
+    <string name="trampoline_name">Sky Zone Trampoline Park</string>
+    <string name="trampoline_hours">10am - 10pm</string>
+    <string name="trampoline_phone">(416) 421-4567</string>
+    <string name="trampoline_address">45 Esandar Dr Unit 1A, Toronto, ON M4G 4C5</string>
+    <string name="trampoline_description">
+        Chain of indoor trampoline parks featuring freestyle bouncing,
+        dodgeball, fitness programs and more.
+    </string>
+
+    <string name="centre_name">Rogers Centre</string>
+    <string name="centre_phone">(416) 341-1000</string>
+    <string name="centre_address">1 Blue Jays Way, Toronto, ON M5V 1J1</string>
+    <string name="centre_description">
+        Rogers Centre, originally named SkyDome, is a multi-purpose
+        stadium in Downtown Toronto, Ontario, Canada, situated just
+        southwest of the CN Tower near the northern shore of Lake
+        Ontario. Opened in 1989 on the former Railway Lands, it is
+        home to the Toronto Blue Jays of Major League Baseball.
+    </string>
+
+    <string name="eaton_name">CF Toronto Eaton Centre</string>
+    <string name="eaton_hours">10am - 9:30pm</string>
+    <string name="eaton_phone">(416) 598-8560</string>
+    <string name="eaton_address">220 Yonge St, Toronto, ON M5B 2H1</string>
+    <string name="eaton_description">
+        The Toronto Eaton Centre is a shopping mall and office complex
+        in Downtown Toronto, Ontario, Canada. It is owned and managed
+        by Cadillac Fairview. It was named after the Eaton\'s
+        department store chain that once anchored it before the chain
+        became defunct in the late 1990s
+    </string>
+
+    <string name="wonderland_name">Canada\'s Wonderland</string>
+    <string name="wonderland_hours">10am - 10pm</string>
+    <string name="wonderland_phone">(905) 832-7000</string>
+    <string name="wonderland_address">1 Canada\'s Wonderland Drive, Vaughan, ON L6A 1S6</string>
+    <string name="wonderland_description">
+        Canada\'s Wonderland is a 134-hectare theme park located in
+        Vaughan, Ontario, a suburb approximately 40 kilometres north
+        of Downtown Toronto. Opened in 1981 by the Taft Broadcasting
+        Company and The Great-West Life Assurance Company as the first
+        major theme park in Canada, it remains the country\'s largest.
+    </string>
+
+    <string name="square_name">Yonge - Dundas Square</string>
+    <string name="square_hours">Open 24 Hours</string>
+    <string name="square_phone">(416) 979-9960</string>
+    <string name="square_address">1 Dundas St E, Toronto, ON M5B 2R8</string>
+    <string name="square_description">
+        Yonge–Dundas Square, or Dundas Square, is a public
+        square at the southeast corner of the intersection of Yonge
+        Street and Dundas Street East in Downtown Toronto, Ontario,
+        Canada. Designed by Brown and Storey Architects, the square
+        was conceived in 1997 as part of revitalizing the intersection.
+    </string>
+
+    <string name="tower_name">CN Tower - Edge Walk</string>
+    <string name="tower_hours">9am - 8pm</string>
+    <string name="tower_phone">(416) 601-3833</string>
+    <string name="tower_address">290 Bremner Blvd, Toronto, ON M5V 3L9</string>
+    <string name="tower_description">
+        Attraction where participants in suits and harnesses circle
+        the exposed top of the 356m-high CN Tower.
+    </string>
+
+    <string name="garden_name">Edwards Gardens</string>
+    <string name="garden_hours">9am - 8pm</string>
+    <string name="garden_phone">(416) 392-8188</string>
+    <string name="garden_address">755 Lawrence Ave E, North York, ON M3C 1P2</string>
+    <string name="garden_description">
+        Edwards Gardens is a botanical garden located on the southwest
+        corner of Leslie Street and Lawrence Avenue East in Toronto,
+        Ontario, Canada. It is also the site of the Toronto Botanical
+        Garden, a private not-for profit organization previously called
+        the Civic Garden Centre.
+    </string>
+
+    <string name="market_name">Toronto Christmas Market</string>
+    <string name="market_hours">12pm - 9pm</string>
+    <string name="market_phone">(416) 369-9766</string>
+    <string name="market_address">55 Mill St, Toronto, ON M5A 3C4</string>
+    <string name="market_description">
+        Enjoy the tradition, heritage and charm of a European Christmas Market,
+        right in the heart of Toronto. The Toronto Christmas Market is an outdoor event
+        which celebrates the traditional sights, sounds and scents of the season
+        in the weeks leading up to the christmas holidays. Originating in Germany in the
+        1400s and now found in Toronto, it’s a place to gather with friends,
+        share mulled wine, hear strolling carollers and find the Christmas spirit
+        in abundance.
+    </string>
+
+    <!-- Fitness resources -->
+
+    <string name="goodlife_name">Goodlife Fitness</string>
+    <string name="goodlife_hours">Open 24 Hours</string>
+    <string name="goodlife_phone">(905) 856-8290</string>
+    <string name="goodlife_address">8100 York Regional Rd 27, Woodbridge, ON L4H 3M1</string>
+    <string name="goodlife_description">
+        Goodlife Fitness Centres Inc. is the largest health club company in Canada
+        with over 300 locations across the country.
+    </string>
+
+    <string name="stadium_name">Monarch Park Stadium</string>
+    <string name="stadium_phone">(416) 466-2255</string>
+    <string name="stadium_address">1 Parkmount Rd, Toronto, ON M4J 0A5</string>
+    <string name="stadium_description">
+        Monarch Park Stadium is a multi-purpose stadium in Toronto, Ontario, Canada.
+        It is located near the intersection of Hanson Street and Coxwell Avenue next
+        to Monarch Park Collegiate, in Monarch Park, it is used mostly for amateur
+        soccer, baseball, and athletics principally by the Toronto District School
+        Board.
+    </string>
+
+    <string name="oneseven_name">One Seven Sports - Indoor Cricket</string>
+    <string name="oneseven_hours">6am - 11pm</string>
+    <string name="oneseven_phone">(905) 867-3255</string>
+    <string name="oneseven_address">10 Dansk Ct, Etobicoke, ON M9W 5T8</string>
+    <string name="oneseven_description">
+        An indoor facility used to play cricket during off season for all teams.
+    </string>
+
+    <string name="crossfittoronto_name">CrossFit - Toronto</string>
+    <string name="crossfittoronto_hours">5am - 8pm</string>
+    <string name="crossfittoronto_phone">(647) 351-6336</string>
+    <string name="crossfittoronto_address">411 Travis Ln\nWaukesha, WI</string>
+    <string name="crossfittoronto_description">
+        CrossFit is a branded fitness regimen created by Greg Glassman. It is
+        a registered trademark of CrossFit, Inc., which was founded by Glassman
+        and Lauren Jenai in 2000.
+    </string>
+
+    <string name="planetfitness_name">Planet Fitness</string>
+    <string name="planetfitness_hours">Open 24 Hours</string>
+    <string name="planetfitness_phone">(416) 745-7177</string>
+    <string name="planetfitness_address">180 Queens Plate Dr, Etobicoke, ON M9W 6Y9</string>
+    <string name="planetfitness_description">
+        Planet Fitness is an American franchisor and operator of fitness centers
+        based in Hampton, New Hampshire. The company reports that it has 1,742
+        clubs, making it one of the largest fitness club franchises by number of
+        members and locations.
+    </string>
+
+    <string name="gymnastics_name">Etobicoke Gymnastics Club</string>
+    <string name="gymnastics_hours">9am - 4pm</string>
+    <string name="gymnastics_phone">(416) 241-3401</string>
+    <string name="gymnastics_address">1186 Martin Grove Rd, Etobicoke, ON M9W 5M9</string>
+    <string name="gymnastics_description">
+        A gymnastics club located in Etobicoke.
+    </string>
+
+    <string name="pool_name">Albion Pool and Health Club </string>
+    <string name="pool_hours">7am - 9:30pm</string>
+    <string name="pool_phone">(416) 394-8676</string>
+    <string name="pool_address">1485 Albion Rd, Etobicoke, ON M9V 1B2</string>
+    <string name="pool_description">
+        One of the well known swimming pools located in Toronto.
+    </string>
+
+    <string name="yoga_name">Power Yoga Canada</string>
+    <string name="yoga_hours">6am - 10pm</string>
+    <string name="yoga_phone">(647) 729-4631</string>
+    <string name="yoga_address">1092 Islington Ave, Etobicoke, ON M8Z 4R9</string>
+    <string name="yoga_description">
+        A yoga studio located in Toronto, Ontario.
+    </string>
+
+</resources>
